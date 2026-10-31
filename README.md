@@ -1,4 +1,4 @@
-# ACE COMBAT 8 Shadows 저장 도구
+# ACE COMBAT 8 Shadows 22 Su-57 저장 도구
 
 ## 사용 방법
 
@@ -14,7 +14,7 @@
 문제가 생기면 게임을 종료한 상태에서 백업 파일을 `Campaign.sav`으로 복원하세요. Steam Cloud는 복원 확인이 끝날 때까지 꺼 두세요.
 
 
-# ACE COMBAT 8 Shadows Save Tool
+# ACE COMBAT 8 Shadows 22 Su-57 Save Tool
 
 ## How to Use
 
